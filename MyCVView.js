@@ -1,8 +1,8 @@
 var contactDetails = "Name : Suyash Gupta \n, Phone:8290828725, Mail Id: suguptayash@gmail.com";
 var copyContactDetails = "left click to copy contact details";
 
-var firstDivWithHeading = {"Profile Summary:": "Software development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , JavaScript, PHP, Python, C, MySQL , API withh proficiency inn Java and C.",
-"boldSection": "( 3 year off Professional Experience withh Wipro, working since January 2016 )"};
+var firstDivWithHeading = {"Profile Summary:": "Software development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , JavaScript, PHP, Python, C, MySQL , API withh proficiency in Java and C.",
+"boldSection": "( 3.8 year of Professional Experience withh Wipro, working since January 2016 )"};
 
 var secondDivWithHeading = {"Objective:" : "To work consistently in a challenging environment using latest technologies and optimized approach to deliver the best"};
 
@@ -28,7 +28,7 @@ var thirdTableData = {
     "Role ":"Software Engineer",
     "Team Size ":"2",
     "Project Description - ": "Network Health Analysis Developer-Dynamically Populating Alarms Data via WebSocket on the Front End.",
-    "Responsibilities and Contribution ":`1) Auto subscribing Events via  JMS for reduced databse query  2) Customized WebPush API’s 3) Rest Interface-RestEasy 4)     Esper Event System 5) Java Enterprise Beans, Remote Injection. 6) UI Java Script 7) Data Base-postgresssql 8) Building Tool Maven 9) Design Analysis and Estimations`
+    "Responsibilities and Contribution ":`1) Auto subscribing Events via  JMS for reduced databse query  2) Customized WebPush APIâ€™s 3) Rest Interface-RestEasy 4)     Esper Event System 5) Java Enterprise Beans, Remote Injection. 6) UI Java Script 7) Data Base-postgresssql 8) Building Tool Maven 9) Design Analysis and Estimations`
 };
 
 var secondTableData = {
@@ -36,14 +36,15 @@ var secondTableData = {
     "Role ":"Software Engineer",
     "Team Size ":"2",
     "Project Description - ": "Network Health Analysis Developer-Dynamically Populating Alarms Data via WebSocket on the Front End.",
-    "Responsibilities and Contribution ":`- Auto subscribing Events via  JMS for reduced databse query  - Customized WebPush API’s - Rest Interface-RestEasy - ssEsper      Event System - Java Enterprise Beans, Remote Injection. - UI Java Script - Data Base-postgresssql - Building Tool Maven - Design Analysis and Estimations`
+    "Responsibilities and Contribution ":`- Auto subscribing Events via  JMS for reduced databse query  - Customized WebPush APIâ€™s - Rest Interface-RestEasy - ssEsper      Event System - Java Enterprise Beans, Remote Injection. - UI Java Script - Data Base-postgresssql - Building Tool Maven - Design Analysis and Estimations`
 };
 
 var firstTableData = { 
     "Project-NHM Real time kpi Developer(Duration 8 months at onsite location) ": "",
+    "Role": "Software Engineer",
     "Team-Size":2,
     "Project-Description": "Introducing Real Time Key Performance Indicator Calculation should happen from Real Node data with in one minute.",
-    "Responsibilities and Contribution-":`1)  Two New Infinispan replicated Cache was introduced 2) User Cache will create subscription id for user and maintain 13     independent user for one hour session. 3) KPI cache to store KPI and avoid DBS query. 4) Introducing New JMS Queue to send data to next service i.e. mediation     layer where single instance of counter is maintained 5) Timer Service to query data every minute to MOCI via camel flow. 6)Auto subscribing Events via  JMS for reduced databse 7)Creating Genric KPI Calculation Handler 8) Dynamically Populating Alarms Data via WebSocket on the Front End.`,
+    "Responsibilities and Contribution-":`1)  Two New Infinispan replicated Cache was introduced 2) User Cache for user subscription id for user and maintain 13 independent user for one hour session. 3) Performance Indicator cache to store  and avoid DB query. 4) Introducing New JMS Queue to send data to next service i.e. mediation layer where single instance of counter is maintained. 5) Timer Service to query data every minute to MOCI via camel flow. 6)Auto subscribing Events via  JMS for reduced databse. 7)Creating Genric KPI Calculation Handler. 8) Dynamically Populating Calculated Data via WebSocket on the Front End.`,
 };
 
 var fourthTableData = {
@@ -52,17 +53,24 @@ var fourthTableData = {
      "Email":"suguptayash@gmail.com",
       "phone":"8290828725",
     "Location": "Wipro Bangalore, (client-Ericsson)",
-    "Role": "Software Engineer"
+    "Role": "Software Engineer",
+    "D.O.B":"19-05-1993"
 };
 
+var fifthTableData = {
+    "Project-FLS Providing File Lookup Service For Node Side Data":"",
+     "Role":"Software Engineer",
+     "Team-Size":2,
+    "Project-Description": "Introducing File Lookup Service For Exposing Node Side Data",
+    "Responsibilities and Contribution-":`1) Postgres DB was introduced to contain file location 2) Rest Easy Interface to expose file location to clients 3) Handling Duplicate Files. 4) Create File System When DB service is down 6) File deletion after expiry `}
 
 
-var firstBulletSection = {"Other projects and work Experience": ["4 Months of Network administrator (Routing ) Experience at E&Y Financials, Gurugram.",
-" month experience in Java and Linux at Alchemy Solutions, Bangalore for Dell incorporation.",
-"month freelancing projects and Hobby project on java,html,linux and wordpress in my college days, build automated Student Exam", "result and Notifications Email WorkFlow using Google Script API"]};
 
-var secondBulletSection = {"Technical Exposure": ["Programming Languages: Java,Java Script,C,DSA,Python,SQL,HTML,CSS.","Operating System: Linux(Ubuntu and Debian Flavors)", "Successfully completed Training on Routing,Switching,Android, Android Studio with API of Parse.com",
-"JavaScript Training and Project on Google Apps Scripts"]};
+var firstBulletSection = {"Other projects and work Experience": ["Docker Environment Setup For Testing-Vertical Slice along with shell scrip automation for ENM Projects","4 Months of Network administrator (Routing ) Experience at E&Y Financials, Gurugram.",
+" 2 month experience in Java and Linux at Alchemy Solutions, Bangalore for Dell incorporation.",
+"4 month freelancing projects and Hobby project on java,html,linux and wordpress in my college days, build automated Student Exam result and Notifications Email WorkFlow using Google Script API"]};
+
+var secondBulletSection = {"Technical Exposure": ["Work Experience in CoreJava & J2EE (EJB, JMS, Apache Camel, EPS) , Server(Jboss, Apache HTTP Server, NodeJs)","Other Languages: JavaScript HTML, CSS, Bootstrap, ShellScript, Python, SQL, Postgres DB.","Operating System: Linux(RHEL, Ubuntu and Debian Flavors)", "Successfully completed Training on Routing,Switching,Android, Android Studio with API of Parse.com"]};
 
 
 var thirdBulletSection = {"Self Disciplined Online Trainings":["Intro to computer science course (python) from udacity.com website and learned basic search engine coding.", "Completed Linux Foundation course from edx.org website (Scored 100%)", "Completed Android development on teamtreehouse.com .(Scored 2340 points)", "Completed WordPress theme development on teamtreehouse.com(Scored 1128 points )"]};
@@ -96,17 +104,23 @@ buildSectionWithHeading(thirdDivWithHeading, "thirdDiv", "mainBody", "divClass")
 
 buildTable(firstTableData,  "firstTable");
 breakLineDiv("fourthBreak","hr");
+
 buildTable(secondTableData, "secondTable");
 breakLineDiv("fifthhBreak","hr");
 
 buildTable(thirdTableData, "thirdTable");
 breakLineDiv("sixthBreak","hr");
 
-buildBulletSection(fifthBulletSection,"firstBulletSection", "bulletSection", "mainBody");
-buildBulletSection(fourthBulletSection,"secondBulletSection", "bulletSection", "mainBody");
+buildTable(fifthTableData,  "seventhTable");
+breakLineDiv("seventhBreak","hr");
+
+buildBulletSection(secondBulletSection,"secondBulletSection", "bulletSection", "mainBody");
+buildBulletSection(firstBulletSection,"firstBulletSection", "bulletSection", "mainBody");
+buildBulletSection(fifthBulletSection,"fifthBulletSection", "bulletSection", "mainBody");
+buildBulletSection(fourthBulletSection,"fourthBulletSection", "bulletSection", "mainBody");
 buildBulletSection(thirdBulletSection,"thirdBulletSection", "bulletSection", "mainBody");
-buildBulletSection(secondBulletSection,"fourthBulletSection", "bulletSection", "mainBody");
-buildBulletSection(firstBulletSection,"fifthBulletSection", "bulletSection", "mainBody");
+
+
 
 breakLineDiv("eightBreak","hr");
 buildTable(fourthTableData, "fourthTable");
