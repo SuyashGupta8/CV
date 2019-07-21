@@ -1,7 +1,7 @@
 var contactDetails = "Name : Suyash Gupta \n, Phone:8290828725, Mail Id: suguptayash@gmail.com";
 var copyContactDetails = "left click to copy contact details";
 
-var firstDivWithHeading = {"Profile Summary:": "Software development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , JavaScript, PHP, Python, C, MySQL , API withh proficiency in Java and C.",
+var firstDivWithHeading = {"Profile Summary:": "Full Stack development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , JavaScript, PHP, Python, C, MySQL , API withh proficiency in Java and C.",
 "boldSection": "( 3.8 year of Professional Experience withh Wipro, working since January 2016 )"};
 
 var secondDivWithHeading = {"Objective:" : "To work consistently in a challenging environment using latest technologies and optimized approach to deliver the best"};
