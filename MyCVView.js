@@ -1,8 +1,8 @@
 var contactDetails = "Name : Suyash Gupta \n, Phone:8290828725, Mail Id: suguptayash@gmail.com";
 var copyContactDetails = "left click to copy contact details";
 
-var firstDivWithHeading = {"Profile Summary:": "Full Stack development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , Node, JavaScript, PHP, Python, C, MySQL , API with proficiency in Java and C.",
-"boldSection": "( 3.8 year of Professional Experience withh Wipro, working since January 2016 )"};
+var firstDivWithHeading = {"Profile Summary:": "Full Stack development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting ,Node,JavaScript, PHP, Python, C, MySQL , API with proficiency in Java and C.",
+"boldSection": "( 3.8 year of Professional Experience with Wipro, working since January 2016 )"};
 
 var secondDivWithHeading = {"Objective:" : "To work consistently in a challenging environment using latest technologies and optimized approach to deliver the best"};
 
@@ -15,7 +15,7 @@ var secondTableData = {
 "Project Description -": "Network Health Monitor Developer- Triggering Events forr breached nodes in backend to display Alarms(Fault Management Alarm) inr GUI",
 "Responsibilities and Contribution ": `1) Full stack Development including UI and backend
 2) Rest Interface-RestEasy - Java 7, Java Enterprise Beans.`+'\n'+` 
-3) Objectt Mapper forr converting POJO to JSON object. \n
+3) Object Mapper for converting POJO to JSON object. \n
 4) Esper Event System \n
 5) UI Java Script \n
 6) Data Base-postgresssql \n
@@ -30,7 +30,7 @@ var thirdTableData = {
     "Role ":"Software Engineer",
     "Team Size ":"2",
     "Project Description - ": "Network Health Analysis Developer-Dynamically Populating Alarms Data via WebSocket on the Front End.",
-    "Responsibilities and Contribution ":`- Auto subscribing Events via  JMS for reduced databse query  - Customized WebPush API’s - Rest Interface-RestEasy - ssEsper      Event System - Java Enterprise Beans, Remote Injection. - UI Java Script - Data Base-postgresssql - Building Tool Maven - Design Analysis and Estimations`
+    "Responsibilities and Contribution ":`- Auto subscribing Events via  JMS for reduced databse query  - Customized WebPush API’s - Rest Interface-RestEasy - Esper      Event System - Java Enterprise Beans, Remote Injection. - UI Java Script - Data Base-postgresssql - Building Tool Maven - Design Analysis and Estimations`
 };
 
 var firstTableData = { 
