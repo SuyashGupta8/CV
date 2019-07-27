@@ -1,7 +1,7 @@
 var contactDetails = "Name : Suyash Gupta \n, Phone:8290828725, Mail Id: suguptayash@gmail.com";
 var copyContactDetails = "left click to copy contact details";
 
-var firstDivWithHeading = {"Profile Summary:": "Software development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , JavaScript, PHP, Python, C, MySQL , API with proficiency in Java and C.",
+var firstDivWithHeading = {"Profile Summary:": "Full Stack development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , Node, JavaScript, PHP, Python, C, MySQL , API with proficiency in Java and C.",
 "boldSection": "( 3.8 year of Professional Experience withh Wipro, working since January 2016 )"};
 
 var secondDivWithHeading = {"Objective:" : "To work consistently in a challenging environment using latest technologies and optimized approach to deliver the best"};
@@ -39,7 +39,7 @@ var firstTableData = {
     "Role": "Software Engineer",
     "Team-Size":2,
     "Project-Description": "Introducing Real Time Key Performance Indicator Calculation should happen from Real Node data with in one minute.",
-    "Responsibilities and Contribution-":`1) Building Design Solution for building real time performance indicator 2)  Three New Infinispan replicated Cache was introduced 3) User Cache for user subscription id for user and maintain 13 independent user for one hour session. 4) Performance Indicator cache to store  and avoid DB query. 5) Introducing New JMS Queue to send data to next service i.e. mediation layer where single instance of counter is maintained. 6)) Timer Service to query data every minute to MOCI via camel flow. 7)Auto subscribing Events via  JMS for reduced databse. 8)Creating Genric KPI Calculation Handler. 9) Dynamically Populating Calculated Data via WebSocket on the Front End.`,
+    "Responsibilities and Contribution-":`1) Building Design Solution for implementing real time performance indicator 2)  Three New Infinispan replicated Cache was introduced 3) User Cache for user subscription id for user and maintain 13 independent user for one hour session. 4) Performance Indicator cache to store  and avoid DB query. 5) Introducing New JMS Queue to send data to next service i.e. mediation layer where single instance of counter is maintained. 6)) Timer Service to query data every minute to MOCI via camel flow. 7)Auto subscribing Events via  JMS for reduced databse. 8)Creating Genric KPI Calculation Handler. 9) Dynamically Populating Calculated Data via WebSocket on the Front End.`,
 };
 
 var fourthTableData = {
