@@ -1,7 +1,7 @@
 var contactDetails = "Name : Suyash Gupta \n, Phone:8290828725, Mail Id: suguptayash@gmail.com";
 var copyContactDetails = "left click to copy contact details";
 
-var firstDivWithHeading = {"Profile Summary:": "Full Stack development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , JavaScript, PHP, Python, C, MySQL , API withh proficiency in Java and C.",
+var firstDivWithHeading = {"Profile Summary:": "Software development professional with key projects and exposure to good number of ProgrammingLanguages-Java, Shell Scripting , JavaScript, PHP, Python, C, MySQL , API with proficiency in Java and C.",
 "boldSection": "( 3.8 year of Professional Experience withh Wipro, working since January 2016 )"};
 
 var secondDivWithHeading = {"Objective:" : "To work consistently in a challenging environment using latest technologies and optimized approach to deliver the best"};
@@ -9,10 +9,10 @@ var secondDivWithHeading = {"Objective:" : "To work consistently in a challengin
 var thirdDivWithHeading = {"Projects": "key projects worked in"};
 
 
-var firstTableData = {
+var secondTableData = {
 "Project - NHM Developer Ericsson (Duration-1 year)": "", 
 "Team Size":1,
-"Project Description -": "Network Health Monitor Developer- Triggering Events forr breached nodes inr backend to display Alarms(Fault Management Alarm) inr GUI",
+"Project Description -": "Network Health Monitor Developer- Triggering Events forr breached nodes in backend to display Alarms(Fault Management Alarm) inr GUI",
 "Responsibilities and Contribution ": `1) Full stack Development including UI and backend
 2) Rest Interface-RestEasy - Java 7, Java Enterprise Beans.`+'\n'+` 
 3) Objectt Mapper forr converting POJO to JSON object. \n
@@ -23,16 +23,10 @@ var firstTableData = {
 8) Design Analysis and Estimations.`,
 };
 
+
 var thirdTableData = {
     "Project- NHA Developer Ericsson (Duration- 8 months) ":"",
-    "Role ":"Software Engineer",
-    "Team Size ":"2",
-    "Project Description - ": "Network Health Analysis Developer-Dynamically Populating Alarms Data via WebSocket on the Front End.",
-    "Responsibilities and Contribution ":`1) Auto subscribing Events via  JMS for reduced databse query  2) Customized WebPush API’s 3) Rest Interface-RestEasy 4)     Esper Event System 5) Java Enterprise Beans, Remote Injection. 6) UI Java Script 7) Data Base-postgresssql 8) Building Tool Maven 9) Design Analysis and Estimations`
-};
-
-var secondTableData = {
-    "Project- NHA Developer Ericsson (Duration- 8 months) ":"",
+      "Work Location":"Bangalore, India",
     "Role ":"Software Engineer",
     "Team Size ":"2",
     "Project Description - ": "Network Health Analysis Developer-Dynamically Populating Alarms Data via WebSocket on the Front End.",
@@ -41,10 +35,11 @@ var secondTableData = {
 
 var firstTableData = { 
     "Project-NHM Real time kpi Developer(Duration 8 months at onsite location) ": "",
+     "Work Location":"Onsite Location, Athlone Ireland",
     "Role": "Software Engineer",
     "Team-Size":2,
     "Project-Description": "Introducing Real Time Key Performance Indicator Calculation should happen from Real Node data with in one minute.",
-    "Responsibilities and Contribution-":`1)  Two New Infinispan replicated Cache was introduced 2) User Cache for user subscription id for user and maintain 13 independent user for one hour session. 3) Performance Indicator cache to store  and avoid DB query. 4) Introducing New JMS Queue to send data to next service i.e. mediation layer where single instance of counter is maintained. 5) Timer Service to query data every minute to MOCI via camel flow. 6)Auto subscribing Events via  JMS for reduced databse. 7)Creating Genric KPI Calculation Handler. 8) Dynamically Populating Calculated Data via WebSocket on the Front End.`,
+    "Responsibilities and Contribution-":`1) Building Design Solution for building real time performance indicator 2)  Three New Infinispan replicated Cache was introduced 3) User Cache for user subscription id for user and maintain 13 independent user for one hour session. 4) Performance Indicator cache to store  and avoid DB query. 5) Introducing New JMS Queue to send data to next service i.e. mediation layer where single instance of counter is maintained. 6)) Timer Service to query data every minute to MOCI via camel flow. 7)Auto subscribing Events via  JMS for reduced databse. 8)Creating Genric KPI Calculation Handler. 9) Dynamically Populating Calculated Data via WebSocket on the Front End.`,
 };
 
 var fourthTableData = {
@@ -59,6 +54,7 @@ var fourthTableData = {
 
 var fifthTableData = {
     "Project-FLS Providing File Lookup Service For Node Side Data":"",
+    "Work Location":"Onsite Location, Athlone Ireland",
      "Role":"Software Engineer",
      "Team-Size":2,
     "Project-Description": "Introducing File Lookup Service For Exposing Node Side Data",
@@ -67,7 +63,7 @@ var fifthTableData = {
 
 
 var firstBulletSection = {"Other projects and work Experience": ["Docker Environment Setup For Testing-Vertical Slice along with shell scrip automation for ENM Projects","4 Months of Network administrator (Routing ) Experience at E&Y Financials, Gurugram.",
-" 2 month experience in Java and Linux at Alchemy Solutions, Bangalore for Dell incorporation.",
+" 2 month experience in Java,SQL and Linux at Alchemy Solutions, Bangalore for Dell incorporation.",
 "4 month freelancing projects and Hobby project on java,html,linux and wordpress in my college days, build automated Student Exam result and Notifications Email WorkFlow using Google Script API"]};
 
 var secondBulletSection = {"Technical Exposure": ["Work Experience in CoreJava & J2EE (EJB, JMS, Apache Camel, EPS) , Server(Jboss, Apache HTTP Server, NodeJs)","Other Languages: JavaScript HTML, CSS, Bootstrap, ShellScript, Python, SQL, Postgres DB.","Operating System: Linux(RHEL, Ubuntu and Debian Flavors)", "Successfully completed Training on Routing,Switching,Android, Android Studio with API of Parse.com"]};
